@@ -13,7 +13,7 @@ Llistat de treballs sistemes de representació avançada
 
 *[Grid](https://mariamartineze.github.io/grid/)
 
-*[Colors](https://mariamartineze.github.io/colors/)
+*[Mondrian](https://mariamartineze.github.io/colors/)
 
 *[Minimalissimo shop](https://mariamartineze.github.io/minimalissimo-shop/)
 
