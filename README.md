@@ -10,3 +10,5 @@ Llistat de treballs sistemes de representació avançada
 *[Autor](https://mariamartineze.github.io/Autor/)
 
 *[Tarjetes](https://mariamartineze.github.io/Tarjetes/)
+
+*[Grid](https://mariamartineze.github.io/grid/)
