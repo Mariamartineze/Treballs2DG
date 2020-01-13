@@ -11,7 +11,7 @@ Llistat de treballs sistemes de representació avançada
 
 *[Tarjetes](https://mariamartineze.github.io/Tarjetes/)
 
-*[Grid](https://mariamartineze.github.io/grid/)
+*[Grid Moma](https://mariamartineze.github.io/grid-moma/)
 
 *[Mondrian](https://mariamartineze.github.io/colors/)
 
