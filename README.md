@@ -13,6 +13,8 @@ Llistat de treballs sistemes de representació avançada
 
 [Grid Moma](https://mariamartineze.github.io/grid-moma/)
 
+[Start Up](https://mariamartineze.github.io/Start-up/)
+
 [Mondrian](https://mariamartineze.github.io/colors/)
 
 [Minimalissimo shop](https://mariamartineze.github.io/minimalissimo-shop/)
